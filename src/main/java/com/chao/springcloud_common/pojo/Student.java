@@ -1,1 +1,0 @@
-private Intrger id;
